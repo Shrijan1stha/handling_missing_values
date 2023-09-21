@@ -1,0 +1,2 @@
+# handling_missing_values
+Welcome to the HR Employee Data Analysis project! This Jupyter Notebook (.ipynb) file contains a comprehensive analysis of human resource data focusing on employee promotions within a 5-year timeframe and employee attrition. We have conducted data preprocessing, exploratory data analysis (EDA), and built classification models using K-Nearest Neighbors (KNN), Logistic Regression, and Decision Trees.
